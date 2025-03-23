@@ -1,3 +1,20 @@
+ssrd pred min=-50068964.0, max=73451216.0
+ssrd lab min=0.0, max=40906684.0
+##
+3 changes: 
+use surf_2
+regex is surf 2
+metadata changed from comping from surf to atmos
+
+## differnt added datas
+
+albedo
+gsmap
+ndvi
+solar
+
+
+
 
 ## changes to loss
 use Class-Weighted BCE Loss  - need to see ratio of fire to non fire pixels -> change to focal loss if need be
